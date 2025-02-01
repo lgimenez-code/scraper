@@ -27,7 +27,8 @@
 </ul>
 
 <h3>Sample output:</h3>
-![image](https://github.com/user-attachments/assets/bf9bbd97-2968-4173-a6f4-af3b92ed447e)
+<img src="https://github.com/user-attachments/assets/bf9bbd97-2968-4173-a6f4-af3b92ed447e"/>
+
 
 
 
